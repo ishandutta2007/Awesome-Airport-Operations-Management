@@ -57,60 +57,60 @@ Below is a comparative breakdown of leading enterprise SaaS and hosted platforms
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore production-grade open-source software, air traffic control (ATC) simulators, ADS-B radar displays, and database models, sorted by **GitHub Star Count (Descending)** ⭐.
+Explore production-grade open-source software, air traffic control (ATC) simulators, ADS-B radar displays, and database models, sorted by **GitHub Stars_Count (Descending)** ⭐.
 
-1. **[tar1090](https://github.com/wiedehopf/tar1090)** [![GitHub stars](https://img.shields.io/github/stars/wiedehopf/tar1090?style=social&color=white)](https://github.com/wiedehopf/tar1090/stargazers)  
+1. **[tar1090](https://github.com/wiedehopf/tar1090)** [![GitHub_Stars](https://img.shields.io/github/stars/wiedehopf/tar1090?style=social&color=white)](https://github.com/wiedehopf/tar1090/stargazers)  
    🛰️ High-performance web interface for viewing ADS-B / Mode-S air traffic data. Features custom map layers, history playback, and multi-receiver aggregation.
 
-2. **[dump1090](https://github.com/flightaware/dump1090)** [![GitHub stars](https://img.shields.io/github/stars/flightaware/dump1090?style=social&color=white)](https://github.com/flightaware/dump1090/stargazers)  
+2. **[dump1090](https://github.com/flightaware/dump1090)** [![GitHub_Stars](https://img.shields.io/github/stars/flightaware/dump1090?style=social&color=white)](https://github.com/flightaware/dump1090/stargazers)  
    📻 A simple Mode S decoder for RTLSDR devices developed by FlightAware. Standard tool for receiving and processing live ADS-B aircraft positions near airports.
 
-3. **[OpenScope](https://github.com/openscope/openscope)** [![GitHub stars](https://img.shields.io/github/stars/openscope/openscope?style=social&color=white)](https://github.com/openscope/openscope/stargazers)  
+3. **[OpenScope](https://github.com/openscope/openscope)** [![GitHub_Stars](https://img.shields.io/github/stars/openscope/openscope?style=social&color=white)](https://github.com/openscope/openscope/stargazers)  
    🖥️ Web-based Air Traffic Control (ATC) simulator built in JavaScript. Allows users to command arrivals, departures, and ground movements across realistic terminal radar approach controls (TRACON).
 
-4. **[BlueSky ATM Simulator](https://github.com/TUDelft-CNS-ATM/bluesky)** [![GitHub stars](https://img.shields.io/github/stars/TUDelft-CNS-ATM/bluesky?style=social&color=white)](https://github.com/TUDelft-CNS-ATM/bluesky/stargazers)  
+4. **[BlueSky ATM Simulator](https://github.com/TUDelft-CNS-ATM/bluesky)** [![GitHub_Stars](https://img.shields.io/github/stars/TUDelft-CNS-ATM/bluesky?style=social&color=white)](https://github.com/TUDelft-CNS-ATM/bluesky/stargazers)  
    🎓 Open-source Air Traffic Management (ATM) simulator developed by TU Delft. Built for research in conflict detection, resolution algorithms, and trajectory optimization.
 
-5. **[OpenSky Network API](https://github.com/openskynetwork/opensky-api)** [![GitHub stars](https://img.shields.io/github/stars/openskynetwork/opensky-api?style=social&color=white)](https://github.com/openskynetwork/opensky-api/stargazers)  
+5. **[OpenSky Network API](https://github.com/openskynetwork/opensky-api)** [![GitHub_Stars](https://img.shields.io/github/stars/openskynetwork/opensky-api?style=social&color=white)](https://github.com/openskynetwork/opensky-api/stargazers)  
    🌐 Official Python and Java bindings for the OpenSky Network API. Provides programmatic access to real-time air traffic vector states, flight histories, and airport arrivals/departures.
 
-6. **[skies-adsb](https://github.com/machineinteractive/skies-adsb)** [![GitHub stars](https://img.shields.io/github/stars/machineinteractive/skies-adsb?style=social&color=white)](https://github.com/machineinteractive/skies-adsb/stargazers)  
+6. **[skies-adsb](https://github.com/machineinteractive/skies-adsb)** [![GitHub_Stars](https://img.shields.io/github/stars/machineinteractive/skies-adsb?style=social&color=white)](https://github.com/machineinteractive/skies-adsb/stargazers)  
    📡 Real-time 3D air traffic display using unfiltered ADS-B data from RTL-SDR receivers. Deployable on Raspberry Pi with custom 3D WebGL map layers and aircraft photo integration via FlightAware / Planespotters.
 
-7. **[airpyrt-tools](https://github.com/x56/airpyrt-tools)** [![GitHub stars](https://img.shields.io/github/stars/x56/airpyrt-tools?style=social&color=white)](https://github.com/x56/airpyrt-tools/stargazers)  
+7. **[airpyrt-tools](https://github.com/x56/airpyrt-tools)** [![GitHub_Stars](https://img.shields.io/github/stars/x56/airpyrt-tools?style=social&color=white)](https://github.com/x56/airpyrt-tools/stargazers)  
    🐍 Python client and library interface for managing network devices and operational hardware across airport infrastructure environments.
 
-8. **[Flight Management System](https://github.com/sanchit2107/Flight-Management-System)** [![GitHub stars](https://img.shields.io/github/stars/sanchit2107/Flight-Management-System?style=social&color=white)](https://github.com/sanchit2107/Flight-Management-System/stargazers)  
+8. **[Flight Management System](https://github.com/sanchit2107/Flight-Management-System)** [![GitHub_Stars](https://img.shields.io/github/stars/sanchit2107/Flight-Management-System?style=social&color=white)](https://github.com/sanchit2107/Flight-Management-System/stargazers)  
    💻 Full-stack web application built with Spring Boot and Angular for managing flight schedules, routes, aircraft allocations, and airport operations data.
 
-9. **[ATC Reinforcement Learning](https://github.com/fvalka/atc-reinforcement-learning)** [![GitHub stars](https://img.shields.io/github/stars/fvalka/atc-reinforcement-learning?style=social&color=white)](https://github.com/fvalka/atc-reinforcement-learning/stargazers)  
+9. **[ATC Reinforcement Learning](https://github.com/fvalka/atc-reinforcement-learning)** [![GitHub_Stars](https://img.shields.io/github/stars/fvalka/atc-reinforcement-learning?style=social&color=white)](https://github.com/fvalka/atc-reinforcement-learning/stargazers)  
    🤖 Reinforcement learning environment built on OpenAI Gym for training AI agents to solve air traffic control vectoring and collision avoidance challenges.
 
-10. **[Airport Management System Database Design](https://github.com/patilankita79/Airport-Management-System-Database-Design)** [![GitHub stars](https://img.shields.io/github/stars/patilankita79/Airport-Management-System-Database-Design?style=social&color=white)](https://github.com/patilankita79/Airport-Management-System-Database-Design/stargazers)  
+10. **[Airport Management System Database Design](https://github.com/patilankita79/Airport-Management-System-Database-Design)** [![GitHub_Stars](https://img.shields.io/github/stars/patilankita79/Airport-Management-System-Database-Design?style=social&color=white)](https://github.com/patilankita79/Airport-Management-System-Database-Design/stargazers)  
     🗄️ Comprehensive relational database design implemented in Oracle SQL covering flight scheduling, passenger check-ins, employee assignments, and gate allocations.
 
-11. **[Airport DBMS](https://github.com/tusharnankani/Airport-DBMS)** [![GitHub stars](https://img.shields.io/github/stars/tusharnankani/Airport-DBMS?style=social&color=white)](https://github.com/tusharnankani/Airport-DBMS/stargazers)  
+11. **[Airport DBMS](https://github.com/tusharnankani/Airport-DBMS)** [![GitHub_Stars](https://img.shields.io/github/stars/tusharnankani/Airport-DBMS?style=social&color=white)](https://github.com/tusharnankani/Airport-DBMS/stargazers)  
     📊 Complete airport database management system modeling passenger ticketing, flight status updates, terminal infrastructure, and staff duties.
 
-12. **[Flight Schedule Optimization](https://github.com/monu808/Flight-Schedule-Optimization)** [![GitHub stars](https://img.shields.io/github/stars/monu808/Flight-Schedule-Optimization?style=social&color=white)](https://github.com/monu808/Flight-Schedule-Optimization/stargazers)  
+12. **[Flight Schedule Optimization](https://github.com/monu808/Flight-Schedule-Optimization)** [![GitHub_Stars](https://img.shields.io/github/stars/monu808/Flight-Schedule-Optimization?style=social&color=white)](https://github.com/monu808/Flight-Schedule-Optimization/stargazers)  
     🧠 AI-powered Streamlit & Python application designed to optimize flight schedules, forecast cascade delay impacts, and optimize runway throughput using machine learning.
 
-13. **[Airport Database Management System](https://github.com/Jana-Ahmed-20005/Airport-database-managment-system)** [![GitHub stars](https://img.shields.io/github/stars/Jana-Ahmed-20005/Airport-database-managment-system?style=social&color=white)](https://github.com/Jana-Ahmed-20005/Airport-database-managment-system/stargazers)  
+13. **[Airport Database Management System](https://github.com/Jana-Ahmed-20005/Airport-database-managment-system)** [![GitHub_Stars](https://img.shields.io/github/stars/Jana-Ahmed-20005/Airport-database-managment-system?style=social&color=white)](https://github.com/Jana-Ahmed-20005/Airport-database-managment-system/stargazers)  
     🔑 Integrated airport management application supporting role-based access for passengers, flight crews, ground staff, and security personnel.
 
-14. **[Application SMA pour le contrôle aérien](https://github.com/amine-sabbahi/Application-SMA-pour-le-controle-aerien)** [![GitHub stars](https://img.shields.io/github/stars/amine-sabbahi/Application-SMA-pour-le-controle-aerien?style=social&color=white)](https://github.com/amine-sabbahi/Application-SMA-pour-le-controle-aerien/stargazers)  
+14. **[Application SMA pour le contrôle aérien](https://github.com/amine-sabbahi/Application-SMA-pour-le-controle-aerien)** [![GitHub_Stars](https://img.shields.io/github/stars/amine-sabbahi/Application-SMA-pour-le-controle-aerien?style=social&color=white)](https://github.com/amine-sabbahi/Application-SMA-pour-le-controle-aerien/stargazers)  
     🕹️ Multi-Agent System (MAS) built with JADE and JavaFX to simulate interactions between aircraft, pilots, air traffic managers, and airside controllers.
 
-15. **[RealtimeFlightDisplay](https://github.com/SathvikCookie/RealtimeFlightDisplay)** [![GitHub stars](https://img.shields.io/github/stars/SathvikCookie/RealtimeFlightDisplay?style=social&color=white)](https://github.com/SathvikCookie/RealtimeFlightDisplay/stargazers)  
+15. **[RealtimeFlightDisplay](https://github.com/SathvikCookie/RealtimeFlightDisplay)** [![GitHub_Stars](https://img.shields.io/github/stars/SathvikCookie/RealtimeFlightDisplay?style=social&color=white)](https://github.com/SathvikCookie/RealtimeFlightDisplay/stargazers)  
     📱 Compact ESP32 display solution showing live airport arrivals and departure schedules using the OpenSky Network API on 3.5" touchscreens.
 
-16. **[Airport Traffic Control Simulator](https://github.com/Henrique-Versiani/Airport-Traffic-Control)** [![GitHub stars](https://img.shields.io/github/stars/Henrique-Versiani/Airport-Traffic-Control?style=social&color=white)](https://github.com/Henrique-Versiani/Airport-Traffic-Control/stargazers)  
+16. **[Airport Traffic Control Simulator](https://github.com/Henrique-Versiani/Airport-Traffic-Control)** [![GitHub_Stars](https://img.shields.io/github/stars/Henrique-Versiani/Airport-Traffic-Control?style=social&color=white)](https://github.com/Henrique-Versiani/Airport-Traffic-Control/stargazers)  
     ⚙️ C-based multithreaded simulation (using PThreads) enforcing deadlock detection, aging-based starvation prevention, and gate/runway allocation logic.
 
-17. **[Airport Database Management System (SQL)](https://github.com/poetabdullah/Airport-Database-Management-System)** [![GitHub stars](https://img.shields.io/github/stars/poetabdullah/Airport-Database-Management-System?style=social&color=white)](https://github.com/poetabdullah/Airport-Database-Management-System/stargazers)  
+17. **[Airport Database Management System (SQL)](https://github.com/poetabdullah/Airport-Database-Management-System)** [![GitHub_Stars](https://img.shields.io/github/stars/poetabdullah/Airport-Database-Management-System?style=social&color=white)](https://github.com/poetabdullah/Airport-Database-Management-System/stargazers)  
     📜 Microsoft SQL Server + Django database platform managing fueling schedules, baggage tracking, aircraft maintenance, and security clearance roles.
 
-18. **[Radar ATC](https://github.com/Luffy0805/radar_atc)** [![GitHub stars](https://img.shields.io/github/stars/Luffy0805/radar_atc?style=social&color=white)](https://github.com/Luffy0805/radar_atc/stargazers)  
+18. **[Radar ATC](https://github.com/Luffy0805/radar_atc)** [![GitHub_Stars](https://img.shields.io/github/stars/Luffy0805/radar_atc?style=social&color=white)](https://github.com/Luffy0805/radar_atc/stargazers)  
     🎮 Luanti (Minetest) mod for air traffic surveillance, runway configuration, NOTAM publishing, and interactive tower radio communications.
 
 19. **[Airport Manager Microservices](https://gitlab.fi.muni.cz/xnadzam/airport-manager)** [![GitLab stars](https://img.shields.io/badge/GitLab-Project-orange?style=social)](https://gitlab.fi.muni.cz/xnadzam/airport-manager)  
